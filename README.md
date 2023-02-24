@@ -1,1 +1,1 @@
-# Gingerdiseasedetection
+# Ginger_disease_detection
