@@ -6,7 +6,7 @@ Here I conducted different experiment among those you can see the following appr
 1. Detecting ginger disease by using convolutional neural network (CNN)
 2. detecting ginger disease by using pre trained model(Mobile Net)
 
-Anyone using this data is required to cite the following papers.
+Please cite the following papers when using this code or data:
 
 Title: Early Ginger Disease Detection Using Deep Learning Approach
 
